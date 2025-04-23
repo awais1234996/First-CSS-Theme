@@ -1,0 +1,379 @@
+* {
+    margin: 0% auto;
+    padding: 0%;
+}
+
+.main {
+    width: 1263px;
+    min-height: 5000px;
+    background-color: rgb(227, 230, 234);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: black;
+    width: 1263px;
+    height: 70px;
+}
+
+.nav1 {
+
+    width: 300px;
+    height: 70px;
+    margin-left: 90px;
+    text-align: center;
+    padding-top: 18px;
+    box-sizing: border-box;
+    font-size: 30px;
+    color: aliceblue;
+
+}
+
+.nav2 {
+
+    width: 700px;
+    height: 70px;
+    float: right;
+    margin-top: -70px;
+    margin-right: 0px;
+    color: aliceblue;
+
+}
+
+.nav2 ul li {
+    list-style-type: none;
+    float: left;
+    padding: 26px 5px;
+
+}
+
+.nav2 ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 27px 25px;
+}
+
+.nav2 ul li a:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+#dev {
+    box-sizing: border-box;
+    height: 533px;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-image: radial-gradient(circle, rgba(114, 114, 114, 0.52) 40%, rgba(114, 114, 114, 0.52) 90%),
+        url('../../Images/modern-home-office-ideas-4802025-hero-7cf9b3abe1374494a0159692ef978f9b.jpg');
+    background-size: 1263px 533px;
+
+
+}
+
+.txt {
+    color: rgb(251, 247, 247);
+    width: 1263px;
+    position: absolute;
+    top: 250px;
+    text-align: center;
+    font-size: 80px;
+
+}
+
+#about {
+    width: 1150px;
+    height: 550px;
+    background-color: aliceblue;
+    margin: 0% auto;
+    margin-top: 60px;
+}
+
+#about .pro {
+
+    width: 575px;
+    height: 550px;
+    margin-left: 0%;
+
+}
+
+#about .image {
+    width: 240px;
+    height: 250px;
+
+    margin-left: 0%;
+}
+
+.image img {
+    margin: 40px;
+}
+
+.det {
+    width: 335px;
+    height: 250px;
+    float: right;
+    margin-top: -250px;
+    padding-top: 70px;
+    line-height: 30px;
+    box-sizing: border-box;
+}
+
+.skill h1 {
+    padding-bottom: 20px;
+}
+
+.skill {
+
+    padding: 0px 40px;
+    line-height: 30px;
+}
+
+#about .data {
+
+    width: 575px;
+    height: 550px;
+    margin-top: -550px;
+    float: right;
+    padding: 40px;
+    padding-top: 70px;
+    box-sizing: border-box;
+}
+
+.data p {
+    padding-top: 30px;
+}
+
+.sh {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.ph {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.services {
+    width: 1180px;
+    height: 800px;
+    padding: 30px 30px;
+    box-sizing: border-box;
+    margin: 0% auto;
+}
+
+.services .box {
+    width: 310px;
+    height: 310px;
+    background-color: aliceblue;
+    padding-top: 30px;
+    box-sizing: border-box;
+    border: 1px hidden;
+    border-radius: 10px;
+    display: inline-block;
+
+    margin: 29px;
+
+}
+
+.box i {
+    font-size: 40px;
+    border: 7px solid blue;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.box i:hover {
+    border: rgb(192, 192, 253) solid 7px;
+    color: white;
+    background-color: blue;
+}
+
+.box h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.box p {
+    text-align: center;
+
+}
+
+.blue {
+    width: 1263px;
+    height: 300px;
+    background-color: rgb(74, 158, 252);
+    margin-bottom: 40px;
+}
+
+.pencil {
+    background-color: rgb(74, 158, 252);
+    color: aliceblue;
+    width: 200px;
+    height: 100%;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    line-height: 50px;
+    display: inline-block;
+    margin-left: 85px;
+}
+
+.pencil i {
+    border: 6px solid rgb(253, 241, 241);
+    border-radius: 50%;
+    padding: 20px;
+}
+
+#port h1 {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.detail {
+    padding-top: 60px;
+    box-sizing: border-box;
+
+    width: 1200px;
+    height: 750px;
+    padding-top: 15px;
+}
+
+.detl {
+    width: 300px;
+    height: 260px;
+    background-color: white;
+    padding-top: 15px;
+    border: 1px hidden;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 65px;
+    margin-top: 80px;
+
+}
+
+.detl p {
+    padding-left: 23px;
+    padding-top: 10px;
+}
+
+.blu {
+    background-color: rgb(74, 158, 252);
+    color: aliceblue;
+    width: 1263px;
+    height: 600px;
+    text-align: center;
+    padding-top: 180px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.xavi p {
+    padding-top: 40px;
+    width: 600px;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+.bh {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 60px;
+}
+
+.bp {
+    text-align: center;
+}
+
+.de {
+    width: 300px;
+    height: 340px;
+    background-color: white;
+    padding-top: 15px;
+    border: 1px hidden;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 80px;
+    margin-top: 80px;
+
+}
+
+.de p {
+    padding-left: 23px;
+    padding-top: 10px;
+}
+
+.de h3 {
+    padding-left: 23px;
+    padding-top: 20px;
+}
+
+.contact {
+    width: 1263px;
+    height: 700px;
+    background-color: rgb(74, 158, 252);
+    margin-top: 80px;
+}
+
+.send {
+    width: 600px;
+    height: 560px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 31px;
+    margin-top: 60px;
+    box-sizing: border-box;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.send h1 {
+    padding-bottom: 30px;
+}
+
+.send input {
+    width: 530px;
+    height: 20px;
+}
+
+.send .btn {
+    width: 150px;
+    height: 40px;
+    border: hidden;
+    border-radius: 80px;
+    background-color: rgb(78, 78, 249);
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 190px;
+}
+
+.get {
+    width: 600px;
+    height: 560px;
+    background-color: aliceblue;
+    float: right;
+    margin-right: 32px;
+    margin-top: 60px;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+.get i {
+    color: blue;
+    padding-right: 10px;
+}
+
+.get p {
+    padding-top: 30px;
+}
